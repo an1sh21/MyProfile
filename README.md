@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/an1sh21/an1sh21/output/snake.svg" alt="Snake animation" />
+
 
 ###
