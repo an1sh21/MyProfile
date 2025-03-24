@@ -2,7 +2,7 @@
 🔭 I’m currently working on TrailTales , an AR application that hopes to make toursim much more interactive<br>🌱 I’m currently learning Unity AR Foundation, Mobile App Development, Back-End Development<br>💬 Ask me about AR Foundation<br>⚡ Fun fact I play basketball<br>
 
 
-## 🌐 Socials:
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/an1sh_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-de-silva) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anishdesilva7@gmail.com)  
 
